@@ -1,1 +1,4 @@
-My Klipper config for my primary K3. This is NOT running DangerKlipper. Instead, look at my secondary K3 for DangerKlipper
+# klipper-backup 💾 
+Klipper backup script for manual or automated GitHub backups 
+
+This backup is provided by [klipper-backup](https://github.com/Staubgeborener/klipper-backup).
