@@ -1,2 +1,4 @@
-# klipper-backup 
-Klipper backup for my primary K3 printer. This is NOT running DangerKlipper. For DK, see my secondary K3 config
+# klipper-backup 💾 
+Klipper backup script for manual or automated GitHub backups 
+
+This backup is provided by [klipper-backup](https://github.com/Staubgeborener/klipper-backup).
